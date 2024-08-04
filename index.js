@@ -19,7 +19,7 @@ app.get('/', (req, res) => {
             font-family: Arial, sans-serif;
         }
         body {
-            background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fsceenry&psig=AOvVaw1gQxNHuOisWyptpQiPIDx7&ust=1722859650165000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMjjsr-m24cDFQAAAAAdAAAAABAE'); /* Make sure to place the background.jpg image in the same directory */
+            background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fsceenry&psig=AOvVaw1gQxNHuOisWyptpQiPIDx7&ust=1722859650165000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMjjsr-m24cDFQAAAAAdAAAAABAE"); /* Make sure to place the background.jpg image in the same directory */
             background-size: cover;
             background-position: center;
             background-repeat: no-repeat;
