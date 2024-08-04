@@ -5,9 +5,7 @@ const port = process.env.PORT
 
 app.get('/', (req, res) => {
   res.send('
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fsceenry&psig=AOvVaw1gQxNHuOisWyptpQiPIDx7&ust=1722859650165000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMjjsr-m24cDFQAAAAAdAAAAABAE">
-
-    <h1>Welcome to My Homepage</h1>
+    <h1>Welcome to My Homepage </h1>
     <p>This is a static homepage with a background image.</p>
 
 ')
